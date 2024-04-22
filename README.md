@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-https://shukripro.github.io/portfoliov2/
+https://shukripro.github.io/portfolio
 
 
